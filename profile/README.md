@@ -5,6 +5,6 @@ Phoenix Developments creates alternatives for everyday programs such as File-Exp
 >[!NOTE]
 >Our software will be open source for you to check. BUT we will develope future versions of our software in private and only make official versions public. Feel free to submit feedback and bugs so they can get fixed
 >[!IMPORTANT]
->All of our Software is under the 
+>All of our Software is under the [GPLv3-License](https://choosealicense.com/licenses/gpl-3.0/)
 
 ## Members
