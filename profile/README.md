@@ -9,7 +9,7 @@ Phoenix Developments creates alternatives for everyday programs such as File-Exp
 >All of our Software is under the [GPLv3-License](https://choosealicense.com/licenses/gpl-3.0/)
 
 ## Products
-If you want to check out our portfolio just look at our <a href="https://sp3ctr402.github.io/" target="_blank">homepage</a>
+If you want to check out our portfolio just look at our <a href="https://sp3ctr402.github.io/" target="blank">homepage</a>
 
 ## Members
 - [@Sp3ctr402](https://github.com/Sp3ctr402)
