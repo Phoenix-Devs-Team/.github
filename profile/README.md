@@ -1,3 +1,4 @@
 <img src="phoenix_banner.png"></img>
 
-# Phoenix Developments
+## What do we do ?
+
