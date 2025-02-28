@@ -8,8 +8,8 @@ Phoenix Developments creates alternatives for everyday programs such as File-Exp
 >[!IMPORTANT]
 >All of our Software is under the [GPLv3-License](https://choosealicense.com/licenses/gpl-3.0/)
 
-## Languages
-[![](https://skillicons.dev/icons?i=cpp,py)](https://skillicons.dev)
+## Products
+If you want to check out our portfolio just look at our [homepage](https://sp3ctr402.github.io/)
 
 ## Members
 - [@Sp3ctr402](https://github.com/Sp3ctr402)
